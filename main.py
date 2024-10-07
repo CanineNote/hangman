@@ -88,7 +88,7 @@ time.sleep(.3)
 
 # Above is more user-oriented things, you can ignore.
 if (players == 1):
-    importantvars.wordbank = ["Apple", "Kachow", "Skateboard", "Mario", "Stupid", "Dog", "Car", "Cat", "Yeti", "Bitcoin", "Coin", "Base", "Computer", "Snowball", "Blender", "Toothbrush", "Hairbrush", "Charcoal", "Wood", "Fire", "Hammer", "Fortnite", "Minecraft", "Steve"]
+    importantvars.wordbank
     # Since it's singleplayer, this just throws in a bunch of random words to add to the experience.
     print("GAME SETTINGS: \n")
     print("SINGLEPLAYER ENABLED!")
